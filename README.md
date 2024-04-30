@@ -16,3 +16,5 @@ Event countdown application for windows
 ```pyinstaller --name countdown --onefile timer.py```
 
 ```pyinstaller countdown.spec```
+
+>An executable will available on your current path !.
